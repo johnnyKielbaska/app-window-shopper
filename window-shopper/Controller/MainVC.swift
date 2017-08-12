@@ -13,6 +13,7 @@ class MainVC: UIViewController {
     @IBOutlet weak var wageTxt: CurrencyTxtField!
     @IBOutlet weak var priceTxt: CurrencyTxtField!
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
